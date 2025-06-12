@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that enables Claude to interact with Google's Gemini AI models.
 
+Inspired from [this GitHub repo](https://github.com/RaiAnsar/claude_code-gemini-mcp/tree/main)
+
 ## Setup
 
 1. **Get a Gemini API key** from [Google AI Studio](https://aistudio.google.com/apikey)
